@@ -1,3 +1,3 @@
 # CloudPic
-> Github图床
-> Blog图床
+> - Github图床
+> - Blog图床
